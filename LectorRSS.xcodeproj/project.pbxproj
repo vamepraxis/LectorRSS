@@ -7,14 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8D0EB4FD217C3D7900A98EA1 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0EB4FC217C3D7900A98EA1 /* WebViewController.swift */; };
 		8D5FED13217AE33700C2108B /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED12217AE33700C2108B /* HomeViewController.swift */; };
 		8D5FED15217AEE0100C2108B /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED14217AEE0100C2108B /* MenuViewController.swift */; };
 		8D5FED17217AEE3C00C2108B /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED16217AEE3C00C2108B /* BaseViewController.swift */; };
 		8D5FED19217AF71D00C2108B /* TableViewCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED18217AF71D00C2108B /* TableViewCustomCell.swift */; };
 		8D5FED1B217AF80000C2108B /* NewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED1A217AF80000C2108B /* NewsViewController.swift */; };
 		8D5FED1D217AF87F00C2108B /* MyRSSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED1C217AF87F00C2108B /* MyRSSViewController.swift */; };
-		8D5FED1F217AF89700C2108B /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED1E217AF89700C2108B /* SettingsViewController.swift */; };
 		8D5FED21217B9F1200C2108B /* RSSParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D5FED20217B9F1200C2108B /* RSSParser.swift */; };
 		8DA76832217AD3050034A419 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA76831217AD3050034A419 /* AppDelegate.swift */; };
 		8DA76834217AD3050034A419 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA76833217AD3050034A419 /* ViewController.swift */; };
@@ -46,14 +44,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8D0EB4FC217C3D7900A98EA1 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		8D5FED12217AE33700C2108B /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		8D5FED14217AEE0100C2108B /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		8D5FED16217AEE3C00C2108B /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		8D5FED18217AF71D00C2108B /* TableViewCustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCustomCell.swift; sourceTree = "<group>"; };
 		8D5FED1A217AF80000C2108B /* NewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsViewController.swift; sourceTree = "<group>"; };
 		8D5FED1C217AF87F00C2108B /* MyRSSViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRSSViewController.swift; sourceTree = "<group>"; };
-		8D5FED1E217AF89700C2108B /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		8D5FED20217B9F1200C2108B /* RSSParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSParser.swift; sourceTree = "<group>"; };
 		8DA7682E217AD3050034A419 /* LectorRSS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LectorRSS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DA76831217AD3050034A419 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -125,9 +121,7 @@
 				8DA76833217AD3050034A419 /* ViewController.swift */,
 				8D5FED12217AE33700C2108B /* HomeViewController.swift */,
 				8D5FED1A217AF80000C2108B /* NewsViewController.swift */,
-				8D0EB4FC217C3D7900A98EA1 /* WebViewController.swift */,
 				8D5FED1C217AF87F00C2108B /* MyRSSViewController.swift */,
-				8D5FED1E217AF89700C2108B /* SettingsViewController.swift */,
 				8D5FED20217B9F1200C2108B /* RSSParser.swift */,
 				8D5FED18217AF71D00C2108B /* TableViewCustomCell.swift */,
 				8D5FED14217AEE0100C2108B /* MenuViewController.swift */,
@@ -303,9 +297,7 @@
 				8D5FED17217AEE3C00C2108B /* BaseViewController.swift in Sources */,
 				8DA7683A217AD3060034A419 /* LectorRSS.xcdatamodeld in Sources */,
 				8D5FED13217AE33700C2108B /* HomeViewController.swift in Sources */,
-				8D0EB4FD217C3D7900A98EA1 /* WebViewController.swift in Sources */,
 				8D5FED1D217AF87F00C2108B /* MyRSSViewController.swift in Sources */,
-				8D5FED1F217AF89700C2108B /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
